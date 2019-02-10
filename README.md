@@ -2,6 +2,8 @@
 
 This is a simple script that's meant to be setup to run via cron or something similar to send walking notifications to your team's slack channel.
 
+Example Slack message: @channel It's freezing, maybe we should all skip the walk this time. It's currently 37°F (feels like 32°F) and cloudy.
+
 ## Setup
 
 1. Setup your API keys.

@@ -30,9 +30,9 @@ Example Slack message: @channel It's freezing, maybe we should all skip the walk
 
     $ make run_bash
     # For a dry run with out sending the notification to Slack
-    $ ./walking-notification.py -n --location=66502
+    $ ./walking_notification.py -n --location=66502
     # To send the notification to Slack
-    $ ./walking-notification.py --location=66502
+    $ ./walking_notification.py --location=66502
     
 ## To run tests
 
